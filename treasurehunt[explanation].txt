@@ -1,0 +1,17 @@
+EXPLANATION:
+This is a well-structured and engaging C program for a Treasure Hunt Game. It features a player and a computer moving across a grid while avoiding traps, collecting power-ups, and searching for treasures.
+Key Features of the Game:
+1. 5x5 Grid: The game takes place on a fixed 5x5 grid.
+2. Randomly Placed Items: Treasures, traps, and power-ups are randomly distributed.
+3. Player & Computer Movement:
+o The player moves using W/A/S/D controls.
+o The computer makes random moves.
+4. Game Constraints:
+o The player has 20 moves.
+o The player starts with 3 health points.
+o Power-ups prevent death from traps.
+5. Scoring System:
+o Treasure: 10 points each.
+o Power-up: 5 points each.
+o Health Left: 10 points per health
+
